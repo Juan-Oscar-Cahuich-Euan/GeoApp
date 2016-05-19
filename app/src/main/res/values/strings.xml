@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">GeoApp</string>
-    <string name="texto_pregunta">¿la peninsula de yucatan se encuentra al norte de Mèxico?</string>
-    <string name="texto_boton_cierto">Cierto!!</string>
-    <string name="texto_boton_falso">Falso!!</string>
+    <string name="texto_pregunta_1">¿la peninsula de Yucatàn se encuentra al norte de Mèxico?</string>
+    <string name="texto_boton_cierto">Cierto</string>
+    <string name="texto_boton_falso">Falso</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
     <string name="texto_correcto">Correcto</string>
     <string name="texto_incorrecto">Incorrecto</string>
+    <string name="texto_pregunta_2">Nuestro Sistema Solar se encuetra en la galaxia Vìa Làctea</string>
+    <string name="texto_pregunta_3">El Ocèano màs grande de nuestro planeta es el Oceàno Pacìfico</string>
+    <string name="texto_pregunta_4">Los vientos alisios soplan del noreste al suroeste</string>
+    <string name="texto_pregunta_5">El estado màs grande de nuestra Repùblica Mexicana es Sonora</string>
+
 
 
 </resources>
